@@ -152,6 +152,4 @@ Temos o exemplo de um segundo Decorator adicionando o recurso de Cache ao nosso 
 
 Desta forma nós agregamos duas funcionalidades ao nosso serviço sem modificar o comportamento do serviço, ou modificar quem chama o serviço, desta forma estamos aderentes aos princípios **Responsabilidade Única**, **Aberto-Fechado** e **Inversão de Controle**.
 
-#   D e s a f i o - D i o - D e s i g n - P a t t e r n - C -  
- #   D e s a f i o - D i o - D e s i g n - P a t t e r n - C -  
- 
+Clone do Repositório Design Pattern C# - Professor Victor Fructuoso
